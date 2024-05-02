@@ -1,0 +1,121 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+      
+}
+
+body {
+    background-image: linear-gradient(to top, #53c7db 0%, rgb(222, 233, 72) 100%);
+}
+ 
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #0e2a4e;
+    text-align: center;
+    padding: 10px 0; 
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+a{
+    transition: background-color 0.5s;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+.int {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.obj{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.plan{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.jus{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.mar{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.bib{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.cro{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.ant{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.met{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    color: #000000;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.imagen1{
+    display: block;
+    width: 45%;
+    margin: auto;
+}
+
+.drenaje{
+        display: block;
+        width: 30%;
+        margin: auto;
+        padding: 30px;
+}
+
+.doc{
+    display: block;
+        width: 50rem;
+        padding: 30px;
+
+}
